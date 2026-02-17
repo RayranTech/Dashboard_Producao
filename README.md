@@ -1,4 +1,7 @@
 📊 Dashboard de Produção
+
+<img width="1440" height="809" alt="Captura de tela 2026-02-17 121629" src="https://github.com/user-attachments/assets/ce50cd33-4a5d-4ae7-93da-11336f14f588" />
+
 📌 Visão Geral
 
 Dashboard desenvolvido para monitoramento de desempenho produtivo, consolidando indicadores operacionais e de qualidade em uma interface analítica voltada à eficiência industrial e controle de performance.
